@@ -1,0 +1,44 @@
+body {
+    background-color: #f2f2f2;
+  }
+  .form-contact {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  .form-contact h2 {
+    color: #555;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .form-control {
+    border-radius: 4px;
+  }
+  .form-contact button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  .form-contact button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  .form-contact .back-link {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .form-contact .back-link a {
+    color: #4CAF50;
+  }
+  .form-contact label {
+    color: #555;
+    font-weight: bold;
+  }
+  .form-contact textarea.form-control {
+    height: 150px;
+  }
